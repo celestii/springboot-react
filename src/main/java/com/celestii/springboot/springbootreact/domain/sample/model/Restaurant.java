@@ -1,4 +1,4 @@
-package com.celestii.springboot.springbootreact.domain.sample;
+package com.celestii.springboot.springbootreact.domain.sample.model;
 
 import lombok.Data;
 import org.springframework.stereotype.Component;
